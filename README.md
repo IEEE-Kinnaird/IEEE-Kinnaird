@@ -1,8 +1,8 @@
-# 🎉 Welcome to IEEE Kinnaird College! 🎉
+![Banner Image](https://github.com/IEEE-Kinnaird/IEEE-Kinnaird/blob/main/IEEE%20KSB%20Bannner.jpg?raw=true)
 
 Hey there, tech enthusiasts! 😄👋
 
-We’re super excited to have you here at the official GitHub home of **IEEE Kinnaird College**! 
+We’re super excited to have you here at the official GitHub home of **IEEE Kinnaird College**! 🎉
 
 ## What’s IEEE All About? 🔭🌐
 
